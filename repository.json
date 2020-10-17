@@ -1,0 +1,16 @@
+{
+  "author": "tomw",
+  "gitHubUrl": "https://github.com/tomwpublic",
+  "packages": [
+    {
+      "name": "hubitat_myLeviton",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_myLeviton/master/packageManifest.json",
+      "description": "Hubitat driver integration for My Leviton Wi-Fi enabled switches and dimmers",
+      "tags": [
+        "Lights & Switches"
+      ],
+    }
+  ],
+  "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
+}
