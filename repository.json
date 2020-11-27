@@ -10,6 +10,15 @@
       "tags": [
         "Lights & Switches"
       ],
+    },
+    {
+      "name": "hubitat_aladdinConnect",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_aladdinConnect/master/packageManifest.json",
+      "description": "Hubitat driver integration for Genie Aladdin Connect garage door openers",
+      "tags": [
+        "Garage Doors"
+      ],
     }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
