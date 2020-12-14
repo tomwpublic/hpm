@@ -19,6 +19,15 @@
       "tags": [
         "Garage Doors"
       ],
+    },
+    {
+      "name": "hubitat_boseSoundTouch",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_boseSoundTouch/master/packageManifest.json",
+      "description": "Hubitat driver integration for Bose SoundTouch speakers",
+      "tags": [
+        "Speakers"
+      ],
     }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
