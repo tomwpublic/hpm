@@ -28,7 +28,16 @@
       "tags": [
         "Speakers"
       ],
-    }
+    },
+    {
+      "name": "hubitat_unifiEvents",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_unifiEvents/main/packageManifest.json",
+      "description": "Hubitat driver integration for UniFi controllers that provides client status without polling",
+      "tags": [
+        "LAN", "Presence & Location"
+      ],
+    },
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
 }
