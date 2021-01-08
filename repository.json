@@ -37,6 +37,15 @@
       "tags": [
         "LAN", "Presence & Location"
       ],
+    },
+    {
+      "name": "hubitat_unifiProtect",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_unifiProtect/main/packageManifest.json",
+      "description": "Hubitat driver integration for UniFi Protect controllers, camera, and doorbells",
+      "tags": [
+        "Doors & Windows", "Monitoring", "Presence & Location", "Safety & Security"
+      ],
     }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
