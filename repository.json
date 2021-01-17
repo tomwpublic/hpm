@@ -55,6 +55,15 @@
       "tags": [
         "Buttons", "IR & RF", "Lights & Switches", "Misc. Devices", "Monitoring", "Multi Sensors", "Temperature & Humidity"
       ],
+    },
+    {
+      "name": "hubitat_sonosButtons",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_sonosButtons/main/packageManifest.json",
+      "description": "Hubitat integration for node-sonos-http-api.  Intended as companion functionality for the native Sonos integration on Hubitat.",
+      "tags": [
+        "Buttons", "Speakers"
+      ],
     }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
