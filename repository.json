@@ -60,7 +60,7 @@
       "name": "hubitat_sonosButtons",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_sonosButtons/main/packageManifest.json",
-      "description": "Hubitat integration for node-sonos-http-api.  Intended as companion functionality for the native Sonos integration on Hubitat.  Support grouping, album art, and custom actions.",
+      "description": "Hubitat integration for node-sonos-http-api.  Intended as companion functionality for the native Sonos integration on Hubitat.  Supports grouping, album art, and custom actions.",
       "tags": [
         "Buttons", "Speakers"
       ],
