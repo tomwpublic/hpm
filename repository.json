@@ -42,7 +42,7 @@
       "name": "hubitat_unifiProtect",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_unifiProtect/main/packageManifest.json",
-      "description": "Hubitat driver integration for UniFi Protect controllers, camera, and doorbells",
+      "description": "Hubitat driver integration for UniFi Protect controllers, cameras, and doorbells",
       "tags": [
         "Doors & Windows", "Monitoring", "Presence & Location", "Safety & Security"
       ],
@@ -51,7 +51,7 @@
       "name": "hubitat_switchbot",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_switchbot/main/packageManifest.json",
-      "description": "Hubitat driver integration for SwitchBot devices using the cloud-based SwitchBotAPI, including humidity/temperature sensor, bot, curtain, and hub IR functionality.",
+      "description": "Hubitat driver integration for SwitchBot devices using the cloud-based SwitchBotAPI, including humidity/temperature sensor, bot, curtain, and hub IR functionality",
       "tags": [
         "Buttons", "IR & RF", "Lights & Switches", "Misc. Devices", "Monitoring", "Multi Sensors", "Temperature & Humidity"
       ],
