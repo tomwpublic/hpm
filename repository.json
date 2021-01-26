@@ -64,6 +64,15 @@
       "tags": [
         "Buttons", "Speakers"
       ],
+    },
+    {
+      "name": "hubitat_juiceBox",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_juiceBox/main/packageManifest.json",
+      "description": "Hubitat integration for the JuiceNet API for JuiceBox EVSE.  Reports charging status, voltage, and power and energy delivery.",
+      "tags": [
+        "Vehicles & Transportation"
+      ],
     }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
