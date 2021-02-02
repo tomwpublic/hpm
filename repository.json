@@ -73,7 +73,16 @@
       "tags": [
         "Vehicles & Transportation"
       ],
-    }
+    },
+    {
+      "name": "hubitat_flume",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_flume/main/packageManifest.json",
+      "description": "Hubitat integration for Flume water meter devices.  Reports usage by minute, hour, day, week, and month.  Also reports Smart Leak alerts.",
+      "tags": [
+        "Water"
+      ],
+    }    
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
 }
