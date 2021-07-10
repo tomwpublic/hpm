@@ -9,7 +9,7 @@
       "description": "Hubitat driver integration for My Leviton Wi-Fi enabled switches and dimmers",
       "tags": [
         "Lights & Switches"
-      ],
+      ]
     },
     {
       "name": "hubitat_aladdinConnect",
@@ -18,7 +18,7 @@
       "description": "Hubitat driver integration for Genie Aladdin Connect garage door openers",
       "tags": [
         "Garage Doors"
-      ],
+      ]
     },
     {
       "name": "hubitat_boseSoundTouch",
@@ -27,7 +27,7 @@
       "description": "Hubitat driver integration for Bose SoundTouch speakers",
       "tags": [
         "Speakers"
-      ],
+      ]
     },
     {
       "name": "hubitat_unifiEvents",
@@ -36,7 +36,7 @@
       "description": "Hubitat driver integration for UniFi controllers that provides client status without polling",
       "tags": [
         "LAN", "Presence & Location"
-      ],
+      ]
     },
     {
       "name": "hubitat_unifiProtect",
@@ -45,7 +45,7 @@
       "description": "Hubitat driver integration for UniFi Protect controllers, cameras, and doorbells",
       "tags": [
         "Doors & Windows", "Monitoring", "Presence & Location", "Safety & Security"
-      ],
+      ]
     },
     {
       "name": "hubitat_switchbot",
@@ -54,7 +54,7 @@
       "description": "Hubitat driver integration for SwitchBot devices using the cloud-based SwitchBotAPI, including humidity/temperature sensor, bot, curtain, and hub IR functionality",
       "tags": [
         "Buttons", "IR & RF", "Lights & Switches", "Misc. Devices", "Monitoring", "Multi Sensors", "Temperature & Humidity"
-      ],
+      ]
     },
     {
       "name": "hubitat_sonosButtons",
@@ -63,7 +63,7 @@
       "description": "Hubitat integration for node-sonos-http-api.  Intended as companion functionality for the native Sonos integration on Hubitat.  Supports grouping, album art, and custom actions.",
       "tags": [
         "Buttons", "Speakers"
-      ],
+      ]
     },
     {
       "name": "hubitat_juiceBox",
@@ -72,7 +72,7 @@
       "description": "Hubitat integration for the JuiceNet API for JuiceBox EVSE.  Reports charging status, voltage, and power and energy delivery.",
       "tags": [
         "Vehicles & Transportation"
-      ],
+      ]
     },
     {
       "name": "hubitat_flume",
@@ -81,7 +81,7 @@
       "description": "Hubitat integration for Flume water meter devices.  Reports usage by minute, hour, day, week, and month.  Also reports Smart Leak alerts.",
       "tags": [
         "Water"
-      ],
+      ]
     }    
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
