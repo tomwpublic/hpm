@@ -82,6 +82,15 @@
       "tags": [
         "Water"
       ]
+    },
+    {
+      "name": "hubitat_midea",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_midea/main/packageManifest.json",
+      "description": "Hubitat integration for Midea branded and Midea-supplied air conditioning units.  Provides local LAN control of compatible AC units.",
+      "tags": [
+        "Appliances", "Climate Control", "Temperature & Humidity"
+      ]
     }    
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
