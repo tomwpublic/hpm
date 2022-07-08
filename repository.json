@@ -91,7 +91,16 @@
       "tags": [
         "Appliances", "Climate Control", "Temperature & Humidity"
       ]
-    }    
+    },
+    {
+      "name": "hubitat_SmartHQ",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_SmartHQ/main/packageManifest.json",
+      "description": "Hubitat integration for SmartHQ appliances.  Provides updated attributes and device control.",
+      "tags": [
+        "Appliances", "Misc. Devices"
+      ]
+    }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
 }
