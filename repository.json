@@ -96,7 +96,7 @@
       "name": "hubitat_SmartHQ",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_SmartHQ/main/packageManifest.json",
-      "description": "Hubitat integration for SmartHQ appliances.  Provides updated attributes and device control.",
+      "description": "Hubitat integration for SmartHQ appliances.  Provides updates for common attributes as well as automated control.",
       "tags": [
         "Appliances", "Misc. Devices"
       ]
