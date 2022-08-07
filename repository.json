@@ -100,6 +100,15 @@
       "tags": [
         "Appliances", "Misc. Devices"
       ]
+    },
+    {
+      "name": "hubitat_broadlink",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_broadlink/main/packageManifest.json",
+      "description": "Hubitat local-only integration for Broadlink universal remote controls.  Supports RM3 Mini, RM Pro, RM4 Mini, RM4 Pro, and other devices.",
+      "tags": [
+        "Appliances", "Misc. Devices", "Buttons", "IR & RF", "Climate Control"
+      ]
     }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
