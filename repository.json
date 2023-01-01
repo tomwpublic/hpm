@@ -109,6 +109,15 @@
       "tags": [
         "Appliances", "Misc. Devices", "Buttons", "IR & RF", "Climate Control"
       ]
+    },
+    {
+      "name": "hubitat_dahua",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_dahua/main/packageManifest.json",
+      "description": "Hubitat integration for Dahua branded and Dahua-supplied cameras and doorbells.  Supports Dahua, Amcrest, and possibly other brands.",
+      "tags": [
+        "Doors & Windows", "Monitoring", "Presence & Location", "Safety & Security"
+      ]
     }
   ],
   "id": "26efa45e-9ca3-436e-835c-33adc81da74c"
