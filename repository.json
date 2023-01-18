@@ -123,7 +123,7 @@
       "name": "hubitat_imageServer",
       "category": "Utility",
       "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_imageServer/main/packageManifest.json",
-      "description": "Companion app for hubitat_unifiProtect and hubitat_dahua.  Host snapshot images for dashboards and send Pushover notifications.",
+      "description": "Companion image server app for hubitat_unifiProtect and hubitat_dahua camera integrations.  Hosts snapshot images for dashboards and sends Pushover notifications.",
       "tags": [
         "Dashboards", "Monitoring", "Notifications", "Tools & Utilities"
       ]
